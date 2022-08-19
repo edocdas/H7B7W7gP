@@ -1,0 +1,15 @@
+九湯屋
+評價:3.8
+地址:No. 74, Zhongzheng Rd, Shoufeng Township
+絕對位置:{'lat': 23.906499, 'lng': 121.5313265}
+
+伊均蘭州拉麵
+評價:4.9
+地址:No. 89號, Zhongzheng Rd, Shoufeng Township
+絕對位置:{'lat': 23.906272, 'lng': 121.5320959}
+
+賀田屋
+評價:3.8
+地址:No. 125, Zhongzheng Rd, Shoufeng Township
+絕對位置:{'lat': 23.905742, 'lng': 121.5331261}
+
