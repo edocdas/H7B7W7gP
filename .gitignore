@@ -129,4 +129,5 @@ dmypy.json
 .pyre/
 
 python/youtube-dl/download_vid
-python/Crawler/craw/Data
+python/Crawler/craw/PTT/Data
+python/test.py
